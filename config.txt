@@ -1,0 +1,12 @@
+[C3D]
+classInd_path = ./ucfTrainTestlist/classInd.txt
+lr = 0.005
+momentum=0.9
+weights_path = ./results/weights_c3d.h5
+
+[image]
+image_read = /home/shixi/C3D-keras/image
+image_write = /home/shixi/C3D-keras/image_result
+
+[choose]
+video_image = video
