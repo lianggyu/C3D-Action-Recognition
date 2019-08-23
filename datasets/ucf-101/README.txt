@@ -1,0 +1,1 @@
+Different categories of data are placed in a folder, and the folder is named as a category name.
