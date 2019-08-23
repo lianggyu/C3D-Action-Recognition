@@ -1,0 +1,1 @@
+The sequence image is input, and the result is saved.
